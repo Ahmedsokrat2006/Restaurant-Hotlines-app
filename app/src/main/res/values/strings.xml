@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Restaurants Hotlines</string>
+    <string name="b_laban">B Laban</string>
+    <string name="kunafa_basbousa"><![CDATA[Kunafa & Basbousa]]></string>
+    <string name="wahmy_burger">Wahmy Burger</string>
+    <string name="buffalo_burger">Buffalo Burger</string>
+    <string name="mcdonalds">Mcdonalds</string>
+    <string name="karam_el_sham">Karam El Sham</string>
+    <string name="baheeg">Baheeg</string>
+    <string name="kansas">Kansas</string>
+    <string name="bazooka">Bazooka</string>
+    <string name="kfc">KFC</string>
+    <string name="city_crepe">City Crepe</string>
+    <string name="domino_s_pizza">Domino\'s Pizza</string>
+    <string name="pizza_hut">Pizza Hut</string>
+    <string name="abou_tarek_koshary">Abou Tarek Koshary</string>
+    <string name="koshary_al_tahrir">Koshary Al Tahrir</string>
+    <string name="do_you_want_to_exit">Do You want to exit?</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+</resources>

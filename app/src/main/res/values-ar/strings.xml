@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ارقام المطاعم</string>
+    <string name="b_laban">ب لبن</string>
+    <string name="kunafa_basbousa">كنافة وبسبوسة</string>
+    <string name="wahmy_burger">وهمي برجر</string>
+    <string name="buffalo_burger">بافلو برجر</string>
+    <string name="mcdonalds">ماكدونالدز</string>
+    <string name="karam_el_sham">كرم الشام</string>
+    <string name="baheeg">بهيج</string>
+    <string name="kansas">كانساس</string>
+    <string name="bazooka">بازوكا</string>
+    <string name="kfc">كنتاكي</string>
+    <string name="city_crepe">سيتي كريب</string>
+    <string name="domino_s_pizza">دومينوز بيتزا</string>
+    <string name="pizza_hut">بيتزا هت</string>
+    <string name="abou_tarek_koshary">كشري ابو طارق</string>
+    <string name="koshary_al_tahrir">كشري التحرير</string>
+    <string name="do_you_want_to_exit">هل تريد المغادره؟</string>
+    <string name="ok">نعم</string>
+    <string name="cancel">لا</string>
+</resources>
