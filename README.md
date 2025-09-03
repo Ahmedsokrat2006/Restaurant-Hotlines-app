@@ -7,7 +7,7 @@ Restaurants Hotlines is an Android app that allows users to browse a list of pop
 - **Restaurant List**: Displays a curated list of restaurants with their logos, names, and hotline numbers in a RecyclerView.
 - **One-Tap Calling**: Tap a restaurant card to open the phone dialer with the hotline number pre-filled using `ACTION_DIAL`.
 - **Light and Dark Modes**: Supports light and dark themes for comfortable viewing in any lighting condition, powered by `AppCompatDelegate`.
-- **Portrait and Landscape Support**: Adapts layouts for both orientations, ensuring a consistent UI.
+- **Portrait and Landscape Support**: Adapts layouts for both orientations, using a StaggeredGridLayout in landscape mode for a better UI experience..
 - **Bilingual Support**: Fully localized in English and Arabic with right-to-left (RTL) layout support for Arabic users.
 - **Exit Confirmation**: Shows a dialog when the user attempts to exit the app, enhancing the user experience.
 - **Clean UI**: Uses `CardView` for elegant restaurant cards and `RecyclerView` for smooth scrolling.
@@ -29,7 +29,7 @@ The app is not available on the Google Play Store but can be downloaded as an AP
 
 - **Language**: Kotlin
 - **Framework**: Android SDK
-- **UI Components**: RecyclerView, CardView, AppCompatDelegate (for themes)
+- **UI Components**: RecyclerView, CardView, AppCompatDelegate (for themes), StaggeredGridLayoutManager
 - **IDE**: Android Studio
 - **Localization**: English and Arabic string resources with RTL support
 - **Dependencies**:
